@@ -9,3 +9,5 @@ Next, I am learning Git branching and GitHub workflows.
 This line was added from the main branch.
 
 This line was added from the conflict-demo branch.
+
+I am practicing GitHub Pull Requests and collaboration.
